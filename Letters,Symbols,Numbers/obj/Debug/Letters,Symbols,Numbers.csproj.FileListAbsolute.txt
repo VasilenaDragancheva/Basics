@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\Letters,Symbols,Numbers\bin\Debug\Letters,Symbols,Numbers.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\Letters,Symbols,Numbers\bin\Debug\Letters,Symbols,Numbers.exe
+C:\Users\bacuty\Documents\Homew\Exams\Letters,Symbols,Numbers\bin\Debug\Letters,Symbols,Numbers.pdb
+C:\Users\bacuty\Documents\Homew\Exams\Letters,Symbols,Numbers\obj\Debug\Letters,Symbols,Numbers.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\Letters,Symbols,Numbers\obj\Debug\Letters,Symbols,Numbers.exe
+C:\Users\bacuty\Documents\Homew\Exams\Letters,Symbols,Numbers\obj\Debug\Letters,Symbols,Numbers.pdb

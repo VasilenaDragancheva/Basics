@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\FitBoxInBox\bin\Debug\FitBoxInBox.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\FitBoxInBox\bin\Debug\FitBoxInBox.exe
+C:\Users\bacuty\Documents\Homew\Exams\FitBoxInBox\bin\Debug\FitBoxInBox.pdb
+C:\Users\bacuty\Documents\Homew\Exams\FitBoxInBox\obj\Debug\FitBoxInBox.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\FitBoxInBox\obj\Debug\FitBoxInBox.exe
+C:\Users\bacuty\Documents\Homew\Exams\FitBoxInBox\obj\Debug\FitBoxInBox.pdb

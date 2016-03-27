@@ -1,0 +1,9 @@
+C:\Users\bacuty\Documents\Homew\Exams\BiggestTriple\bin\Debug\BiggestTriple.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\BiggestTriple\bin\Debug\BiggestTriple.exe
+C:\Users\bacuty\Documents\Homew\Exams\BiggestTriple\bin\Debug\BiggestTriple.pdb
+C:\Users\bacuty\Documents\Homew\Exams\BiggestTriple\obj\Debug\BiggestTriple.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\BiggestTriple\obj\Debug\BiggestTriple.exe
+C:\Users\bacuty\Documents\Homew\Exams\BiggestTriple\obj\Debug\BiggestTriple.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\BiggestTriple\bin\Debug\BiggestTriple.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\BiggestTriple\obj\Debug\BiggestTriple.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\BiggestTriple\obj\Debug\BiggestTriple.pdb

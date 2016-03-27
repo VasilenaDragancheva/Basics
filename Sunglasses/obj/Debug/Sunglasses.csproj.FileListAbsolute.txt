@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\Sunglasses\bin\Debug\Sunglasses.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\Sunglasses\bin\Debug\Sunglasses.exe
+C:\Users\bacuty\Documents\Homew\Exams\Sunglasses\bin\Debug\Sunglasses.pdb
+C:\Users\bacuty\Documents\Homew\Exams\Sunglasses\obj\Debug\Sunglasses.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\Sunglasses\obj\Debug\Sunglasses.exe
+C:\Users\bacuty\Documents\Homew\Exams\Sunglasses\obj\Debug\Sunglasses.pdb

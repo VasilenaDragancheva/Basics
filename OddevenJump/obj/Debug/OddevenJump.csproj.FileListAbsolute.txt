@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\OddevenJump\bin\Debug\OddevenJump.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\OddevenJump\bin\Debug\OddevenJump.exe
+C:\Users\bacuty\Documents\Homew\Exams\OddevenJump\bin\Debug\OddevenJump.pdb
+C:\Users\bacuty\Documents\Homew\Exams\OddevenJump\obj\Debug\OddevenJump.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\OddevenJump\obj\Debug\OddevenJump.exe
+C:\Users\bacuty\Documents\Homew\Exams\OddevenJump\obj\Debug\OddevenJump.pdb

@@ -1,0 +1,10 @@
+C:\Users\bacuty\Documents\Homew\Exams\Dumbbell\bin\Debug\Dumbbell.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\Dumbbell\bin\Debug\Dumbbell.exe
+C:\Users\bacuty\Documents\Homew\Exams\Dumbbell\bin\Debug\Dumbbell.pdb
+C:\Users\bacuty\Documents\Homew\Exams\Dumbbell\obj\Debug\Dumbbell.exe
+C:\Users\bacuty\Documents\Homew\Exams\Dumbbell\obj\Debug\Dumbbell.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\Dumbbell\bin\Debug\Dumbbell.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\Dumbbell\obj\Debug\Dumbbell.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\Dumbbell\obj\Debug\Dumbbell.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\Dumbbell\bin\Debug\Dumbbell.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\Dumbbell\bin\Debug\Dumbbell.pdb

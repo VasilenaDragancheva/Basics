@@ -1,0 +1,9 @@
+C:\Users\bacuty\documents\Homew\Solution1\StudentCable\bin\Debug\StudentCable.exe.config
+C:\Users\bacuty\documents\Homew\Solution1\StudentCable\bin\Debug\StudentCable.exe
+C:\Users\bacuty\documents\Homew\Solution1\StudentCable\bin\Debug\StudentCable.pdb
+C:\Users\bacuty\documents\Homew\Solution1\StudentCable\obj\Debug\StudentCable.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\documents\Homew\Solution1\StudentCable\obj\Debug\StudentCable.exe
+C:\Users\bacuty\documents\Homew\Solution1\StudentCable\obj\Debug\StudentCable.pdb
+C:\Users\bacuty\Documents\Homew\Exams\StudentCable\bin\Debug\StudentCable.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\StudentCable\obj\Debug\StudentCable.exe
+C:\Users\bacuty\Documents\Homew\Exams\StudentCable\obj\Debug\StudentCable.pdb

@@ -1,0 +1,9 @@
+C:\Users\bacuty\Documents\Homew\Exams\CheatSheet\bin\Debug\CheatSheet.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\CheatSheet\bin\Debug\CheatSheet.exe
+C:\Users\bacuty\Documents\Homew\Exams\CheatSheet\bin\Debug\CheatSheet.pdb
+C:\Users\bacuty\Documents\Homew\Exams\CheatSheet\obj\Debug\CheatSheet.exe
+C:\Users\bacuty\Documents\Homew\Exams\CheatSheet\obj\Debug\CheatSheet.pdb
+C:\Users\bacuty\Documents\Homew\Exams\CheatSheet\obj\Debug\CheatSheet.csprojResolveAssemblyReference.cache
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\CheatSheet\bin\Debug\CheatSheet.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\CheatSheet\obj\Debug\CheatSheet.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\CheatSheet\obj\Debug\CheatSheet.pdb

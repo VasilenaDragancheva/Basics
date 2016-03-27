@@ -1,0 +1,8 @@
+C:\Users\bacuty\Documents\Homew\Exams\BitExchange\bin\Debug\BitExchange.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\BitExchange\bin\Debug\BitExchange.exe
+C:\Users\bacuty\Documents\Homew\Exams\BitExchange\bin\Debug\BitExchange.pdb
+C:\Users\bacuty\Documents\Homew\Exams\BitExchange\obj\Debug\BitExchange.exe
+C:\Users\bacuty\Documents\Homew\Exams\BitExchange\obj\Debug\BitExchange.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\BitExchange\bin\Debug\BitExchange.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\BitExchange\obj\Debug\BitExchange.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\BitExchange\obj\Debug\BitExchange.pdb

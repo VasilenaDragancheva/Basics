@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\SimpleCalculation\bin\Debug\SimpleCalculation.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\SimpleCalculation\bin\Debug\SimpleCalculation.exe
+C:\Users\bacuty\Documents\Homew\Exams\SimpleCalculation\bin\Debug\SimpleCalculation.pdb
+C:\Users\bacuty\Documents\Homew\Exams\SimpleCalculation\obj\Debug\SimpleCalculation.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\SimpleCalculation\obj\Debug\SimpleCalculation.exe
+C:\Users\bacuty\Documents\Homew\Exams\SimpleCalculation\obj\Debug\SimpleCalculation.pdb

@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\WineGlass\bin\Debug\WineGlass.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\WineGlass\bin\Debug\WineGlass.exe
+C:\Users\bacuty\Documents\Homew\Exams\WineGlass\bin\Debug\WineGlass.pdb
+C:\Users\bacuty\Documents\Homew\Exams\WineGlass\obj\Debug\WineGlass.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\WineGlass\obj\Debug\WineGlass.exe
+C:\Users\bacuty\Documents\Homew\Exams\WineGlass\obj\Debug\WineGlass.pdb

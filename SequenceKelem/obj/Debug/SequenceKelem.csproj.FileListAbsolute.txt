@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\SequenceKelem\bin\Debug\SequenceKelem.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\SequenceKelem\obj\Debug\SequenceKelem.exe
+C:\Users\bacuty\Documents\Homew\Exams\SequenceKelem\obj\Debug\SequenceKelem.pdb
+C:\Users\bacuty\Documents\Homew\Exams\SequenceKelem\obj\Debug\SequenceKelem.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\SequenceKelem\bin\Debug\SequenceKelem.exe
+C:\Users\bacuty\Documents\Homew\Exams\SequenceKelem\bin\Debug\SequenceKelem.pdb

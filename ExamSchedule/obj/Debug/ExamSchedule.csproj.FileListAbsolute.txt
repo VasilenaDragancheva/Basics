@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\ExamSchedule\bin\Debug\ExamSchedule.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\ExamSchedule\bin\Debug\ExamSchedule.exe
+C:\Users\bacuty\Documents\Homew\Exams\ExamSchedule\bin\Debug\ExamSchedule.pdb
+C:\Users\bacuty\Documents\Homew\Exams\ExamSchedule\obj\Debug\ExamSchedule.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\ExamSchedule\obj\Debug\ExamSchedule.exe
+C:\Users\bacuty\Documents\Homew\Exams\ExamSchedule\obj\Debug\ExamSchedule.pdb

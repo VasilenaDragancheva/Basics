@@ -1,0 +1,2 @@
+C:\Users\bacuty\Documents\Homew\Exams\CurrencyCheck\bin\Debug\CurrencyCheck.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\CurrencyCheck\bin\Debug\CurrencyCheck.exe.config

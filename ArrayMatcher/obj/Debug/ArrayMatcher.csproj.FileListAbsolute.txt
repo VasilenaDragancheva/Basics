@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\ArrayMatcher\bin\Debug\ArrayMatcher.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\ArrayMatcher\bin\Debug\ArrayMatcher.exe
+C:\Users\bacuty\Documents\Homew\Exams\ArrayMatcher\bin\Debug\ArrayMatcher.pdb
+C:\Users\bacuty\Documents\Homew\Exams\ArrayMatcher\obj\Debug\ArrayMatcher.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\ArrayMatcher\obj\Debug\ArrayMatcher.exe
+C:\Users\bacuty\Documents\Homew\Exams\ArrayMatcher\obj\Debug\ArrayMatcher.pdb

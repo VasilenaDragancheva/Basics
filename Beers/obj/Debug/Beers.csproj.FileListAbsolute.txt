@@ -1,0 +1,9 @@
+C:\Users\bacuty\Documents\Homew\Exams\Beers\bin\Debug\Beers.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\Beers\bin\Debug\Beers.exe
+C:\Users\bacuty\Documents\Homew\Exams\Beers\bin\Debug\Beers.pdb
+C:\Users\bacuty\Documents\Homew\Exams\Beers\obj\Debug\Beers.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\Beers\obj\Debug\Beers.exe
+C:\Users\bacuty\Documents\Homew\Exams\Beers\obj\Debug\Beers.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\Beers\bin\Debug\Beers.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\Beers\obj\Debug\Beers.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\Beers\obj\Debug\Beers.pdb

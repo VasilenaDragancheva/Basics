@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\MorseCode\bin\Debug\MorseCode.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\MorseCode\bin\Debug\MorseCode.exe
+C:\Users\bacuty\Documents\Homew\Exams\MorseCode\bin\Debug\MorseCode.pdb
+C:\Users\bacuty\Documents\Homew\Exams\MorseCode\obj\Debug\MorseCode.exe
+C:\Users\bacuty\Documents\Homew\Exams\MorseCode\obj\Debug\MorseCode.pdb
+C:\Users\bacuty\Documents\Homew\Exams\MorseCode\obj\Debug\MorseCode.csprojResolveAssemblyReference.cache

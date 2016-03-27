@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\BitBuilder\bin\Debug\BitBuilder.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\BitBuilder\bin\Debug\BitBuilder.exe
+C:\Users\bacuty\Documents\Homew\Exams\BitBuilder\bin\Debug\BitBuilder.pdb
+C:\Users\bacuty\Documents\Homew\Exams\BitBuilder\obj\Debug\BitBuilder.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\BitBuilder\obj\Debug\BitBuilder.exe
+C:\Users\bacuty\Documents\Homew\Exams\BitBuilder\obj\Debug\BitBuilder.pdb

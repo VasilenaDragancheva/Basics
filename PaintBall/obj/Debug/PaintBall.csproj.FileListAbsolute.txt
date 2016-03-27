@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\PaintBall\bin\Debug\PaintBall.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\PaintBall\bin\Debug\PaintBall.exe
+C:\Users\bacuty\Documents\Homew\Exams\PaintBall\bin\Debug\PaintBall.pdb
+C:\Users\bacuty\Documents\Homew\Exams\PaintBall\obj\Debug\PaintBall.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\PaintBall\obj\Debug\PaintBall.exe
+C:\Users\bacuty\Documents\Homew\Exams\PaintBall\obj\Debug\PaintBall.pdb

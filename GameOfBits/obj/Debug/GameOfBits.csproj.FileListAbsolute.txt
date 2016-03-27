@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\GameOfBits\bin\Debug\GameOfBits.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\GameOfBits\bin\Debug\GameOfBits.exe
+C:\Users\bacuty\Documents\Homew\Exams\GameOfBits\bin\Debug\GameOfBits.pdb
+C:\Users\bacuty\Documents\Homew\Exams\GameOfBits\obj\Debug\GameOfBits.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\GameOfBits\obj\Debug\GameOfBits.exe
+C:\Users\bacuty\Documents\Homew\Exams\GameOfBits\obj\Debug\GameOfBits.pdb

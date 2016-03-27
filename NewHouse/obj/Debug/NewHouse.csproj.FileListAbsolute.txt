@@ -1,0 +1,5 @@
+C:\Users\bacuty\Documents\Homew\Exams\NewHouse\bin\Debug\NewHouse.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\NewHouse\bin\Debug\NewHouse.exe
+C:\Users\bacuty\Documents\Homew\Exams\NewHouse\bin\Debug\NewHouse.pdb
+C:\Users\bacuty\Documents\Homew\Exams\NewHouse\obj\Debug\NewHouse.exe
+C:\Users\bacuty\Documents\Homew\Exams\NewHouse\obj\Debug\NewHouse.pdb

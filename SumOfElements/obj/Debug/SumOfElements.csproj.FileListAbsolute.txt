@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\SumOfElements\bin\Debug\SumOfElements.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\SumOfElements\bin\Debug\SumOfElements.exe
+C:\Users\bacuty\Documents\Homew\Exams\SumOfElements\bin\Debug\SumOfElements.pdb
+C:\Users\bacuty\Documents\Homew\Exams\SumOfElements\obj\Debug\SumOfElements.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\SumOfElements\obj\Debug\SumOfElements.exe
+C:\Users\bacuty\Documents\Homew\Exams\SumOfElements\obj\Debug\SumOfElements.pdb

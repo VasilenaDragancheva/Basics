@@ -1,0 +1,9 @@
+C:\Users\bacuty\Documents\Homew\Exams\Triangle\bin\Debug\Triangle.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\Triangle\bin\Debug\Triangle.exe
+C:\Users\bacuty\Documents\Homew\Exams\Triangle\bin\Debug\Triangle.pdb
+C:\Users\bacuty\Documents\Homew\Exams\Triangle\obj\Debug\Triangle.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\Triangle\obj\Debug\Triangle.exe
+C:\Users\bacuty\Documents\Homew\Exams\Triangle\obj\Debug\Triangle.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\Triangle\bin\Debug\Triangle.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\Triangle\obj\Debug\Triangle.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\Triangle\obj\Debug\Triangle.pdb

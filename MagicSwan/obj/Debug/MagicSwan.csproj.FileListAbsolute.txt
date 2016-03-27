@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\MagicSwan\bin\Debug\MagicSwan.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\MagicSwan\bin\Debug\MagicSwan.exe
+C:\Users\bacuty\Documents\Homew\Exams\MagicSwan\bin\Debug\MagicSwan.pdb
+C:\Users\bacuty\Documents\Homew\Exams\MagicSwan\obj\Debug\MagicSwan.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\MagicSwan\obj\Debug\MagicSwan.exe
+C:\Users\bacuty\Documents\Homew\Exams\MagicSwan\obj\Debug\MagicSwan.pdb

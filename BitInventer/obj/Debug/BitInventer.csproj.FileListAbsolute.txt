@@ -1,0 +1,9 @@
+C:\Users\bacuty\Documents\Homew\Exams\BitInventer\bin\Debug\BitInventer.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\BitInventer\bin\Debug\BitInventer.exe
+C:\Users\bacuty\Documents\Homew\Exams\BitInventer\bin\Debug\BitInventer.pdb
+C:\Users\bacuty\Documents\Homew\Exams\BitInventer\obj\Debug\BitInventer.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\BitInventer\obj\Debug\BitInventer.exe
+C:\Users\bacuty\Documents\Homew\Exams\BitInventer\obj\Debug\BitInventer.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\BitInventer\bin\Debug\BitInventer.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\BitInventer\obj\Debug\BitInventer.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\BitInventer\obj\Debug\BitInventer.pdb

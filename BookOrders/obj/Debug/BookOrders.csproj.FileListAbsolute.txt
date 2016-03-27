@@ -1,0 +1,9 @@
+C:\Users\bacuty\Documents\Homew\Exams\BookOrders\bin\Debug\BookOrders.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\BookOrders\bin\Debug\BookOrders.exe
+C:\Users\bacuty\Documents\Homew\Exams\BookOrders\bin\Debug\BookOrders.pdb
+C:\Users\bacuty\Documents\Homew\Exams\BookOrders\obj\Debug\BookOrders.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\BookOrders\obj\Debug\BookOrders.exe
+C:\Users\bacuty\Documents\Homew\Exams\BookOrders\obj\Debug\BookOrders.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\BookOrders\bin\Debug\BookOrders.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\BookOrders\obj\Debug\BookOrders.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\BookOrders\obj\Debug\BookOrders.pdb

@@ -1,0 +1,9 @@
+C:\Users\bacuty\Documents\Homew\Exams\bitFriends\bin\Debug\bitFriends.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\bitFriends\bin\Debug\bitFriends.exe
+C:\Users\bacuty\Documents\Homew\Exams\bitFriends\bin\Debug\bitFriends.pdb
+C:\Users\bacuty\Documents\Homew\Exams\bitFriends\obj\Debug\bitFriends.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\bitFriends\obj\Debug\bitFriends.exe
+C:\Users\bacuty\Documents\Homew\Exams\bitFriends\obj\Debug\bitFriends.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\bitFriends\bin\Debug\bitFriends.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\bitFriends\obj\Debug\bitFriends.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\bitFriends\obj\Debug\bitFriends.pdb

@@ -1,0 +1,9 @@
+C:\Users\bacuty\Documents\Homeworks_SoftUni\BasicsHomeworksExams\Exams\FireFighter\bin\Debug\FireFighter.exe.config
+C:\Users\bacuty\Documents\Homeworks_SoftUni\BasicsHomeworksExams\Exams\FireFighter\obj\Debug\FireFighter.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homeworks_SoftUni\BasicsHomeworksExams\Exams\FireFighter\bin\Debug\FireFighter.exe
+C:\Users\bacuty\Documents\Homeworks_SoftUni\BasicsHomeworksExams\Exams\FireFighter\bin\Debug\FireFighter.pdb
+C:\Users\bacuty\Documents\Homeworks_SoftUni\BasicsHomeworksExams\Exams\FireFighter\obj\Debug\FireFighter.exe
+C:\Users\bacuty\Documents\Homeworks_SoftUni\BasicsHomeworksExams\Exams\FireFighter\obj\Debug\FireFighter.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\FireFighter\bin\Debug\FireFighter.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\FireFighter\obj\Debug\FireFighter.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\FireFighter\obj\Debug\FireFighter.pdb

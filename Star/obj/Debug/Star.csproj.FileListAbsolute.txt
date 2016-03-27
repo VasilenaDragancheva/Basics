@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\Star\bin\Debug\Star.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\Star\bin\Debug\Star.exe
+C:\Users\bacuty\Documents\Homew\Exams\Star\bin\Debug\Star.pdb
+C:\Users\bacuty\Documents\Homew\Exams\Star\obj\Debug\Star.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\Star\obj\Debug\Star.exe
+C:\Users\bacuty\Documents\Homew\Exams\Star\obj\Debug\Star.pdb

@@ -1,0 +1,2 @@
+C:\Users\bacuty\Documents\Homew\Exams\ConsoleGraphics\bin\Debug\ConsoleGraphics.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\ConsoleGraphics\bin\Debug\ConsoleGraphics.exe.config

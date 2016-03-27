@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\WorkHours\bin\Debug\WorkHours.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\WorkHours\bin\Debug\WorkHours.exe
+C:\Users\bacuty\Documents\Homew\Exams\WorkHours\bin\Debug\WorkHours.pdb
+C:\Users\bacuty\Documents\Homew\Exams\WorkHours\obj\Debug\WorkHours.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\WorkHours\obj\Debug\WorkHours.exe
+C:\Users\bacuty\Documents\Homew\Exams\WorkHours\obj\Debug\WorkHours.pdb

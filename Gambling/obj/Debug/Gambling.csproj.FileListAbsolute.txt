@@ -1,0 +1,12 @@
+C:\Users\bacuty\Documents\Homew\Exams\Gambling\bin\Debug\Gambling.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\Gambling\bin\Debug\Gambling.exe
+C:\Users\bacuty\Documents\Homew\Exams\Gambling\bin\Debug\Gambling.pdb
+C:\Users\bacuty\Documents\Homew\Exams\Gambling\obj\Debug\Gambling.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\Gambling\obj\Debug\Gambling.exe
+C:\Users\bacuty\Documents\Homew\Exams\Gambling\obj\Debug\Gambling.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\Gambling\bin\Debug\Gambling.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\Gambling\obj\Debug\Gambling.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\Gambling\obj\Debug\Gambling.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\Gambling\bin\Debug\Gambling.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\Gambling\bin\Debug\Gambling.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\Gambling\obj\Debug\Gambling.csprojResolveAssemblyReference.cache

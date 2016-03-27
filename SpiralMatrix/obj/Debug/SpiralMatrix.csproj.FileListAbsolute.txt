@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\SpiralMatrix\bin\Debug\SpiralMatrix.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\SpiralMatrix\bin\Debug\SpiralMatrix.exe
+C:\Users\bacuty\Documents\Homew\Exams\SpiralMatrix\bin\Debug\SpiralMatrix.pdb
+C:\Users\bacuty\Documents\Homew\Exams\SpiralMatrix\obj\Debug\SpiralMatrix.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\SpiralMatrix\obj\Debug\SpiralMatrix.exe
+C:\Users\bacuty\Documents\Homew\Exams\SpiralMatrix\obj\Debug\SpiralMatrix.pdb

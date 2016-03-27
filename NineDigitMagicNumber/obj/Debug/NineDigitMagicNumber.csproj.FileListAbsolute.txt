@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\NineDigitMagicNumber\bin\Debug\NineDigitMagicNumber.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\NineDigitMagicNumber\bin\Debug\NineDigitMagicNumber.exe
+C:\Users\bacuty\Documents\Homew\Exams\NineDigitMagicNumber\bin\Debug\NineDigitMagicNumber.pdb
+C:\Users\bacuty\Documents\Homew\Exams\NineDigitMagicNumber\obj\Debug\NineDigitMagicNumber.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\NineDigitMagicNumber\obj\Debug\NineDigitMagicNumber.exe
+C:\Users\bacuty\Documents\Homew\Exams\NineDigitMagicNumber\obj\Debug\NineDigitMagicNumber.pdb

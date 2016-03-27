@@ -1,0 +1,9 @@
+C:\Users\bacuty\Documents\Homew\Exams\DecryptMessage\bin\Debug\DecryptMessage.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\DecryptMessage\bin\Debug\DecryptMessage.exe
+C:\Users\bacuty\Documents\Homew\Exams\DecryptMessage\bin\Debug\DecryptMessage.pdb
+C:\Users\bacuty\Documents\Homew\Exams\DecryptMessage\obj\Debug\DecryptMessage.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\DecryptMessage\obj\Debug\DecryptMessage.exe
+C:\Users\bacuty\Documents\Homew\Exams\DecryptMessage\obj\Debug\DecryptMessage.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\DecryptMessage\bin\Debug\DecryptMessage.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\DecryptMessage\obj\Debug\DecryptMessage.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\DecryptMessage\obj\Debug\DecryptMessage.pdb

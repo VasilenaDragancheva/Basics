@@ -1,0 +1,5 @@
+C:\Users\bacuty\Documents\Homew\Exams\Tic-Tac-ToePower\bin\Debug\Tic-Tac-ToePower.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\Tic-Tac-ToePower\bin\Debug\Tic-Tac-ToePower.exe
+C:\Users\bacuty\Documents\Homew\Exams\Tic-Tac-ToePower\bin\Debug\Tic-Tac-ToePower.pdb
+C:\Users\bacuty\Documents\Homew\Exams\Tic-Tac-ToePower\obj\Debug\Tic-Tac-ToePower.exe
+C:\Users\bacuty\Documents\Homew\Exams\Tic-Tac-ToePower\obj\Debug\Tic-Tac-ToePower.pdb

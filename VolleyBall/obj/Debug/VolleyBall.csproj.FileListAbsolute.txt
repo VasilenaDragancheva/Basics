@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\VolleyBall\bin\Debug\VolleyBall.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\VolleyBall\bin\Debug\VolleyBall.exe
+C:\Users\bacuty\Documents\Homew\Exams\VolleyBall\bin\Debug\VolleyBall.pdb
+C:\Users\bacuty\Documents\Homew\Exams\VolleyBall\obj\Debug\VolleyBall.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\VolleyBall\obj\Debug\VolleyBall.exe
+C:\Users\bacuty\Documents\Homew\Exams\VolleyBall\obj\Debug\VolleyBall.pdb

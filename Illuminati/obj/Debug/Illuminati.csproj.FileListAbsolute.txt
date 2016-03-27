@@ -1,0 +1,8 @@
+C:\Users\bacuty\documents\Homew\Solution1\Illuminati\bin\Debug\Illuminati.exe.config
+C:\Users\bacuty\documents\Homew\Solution1\Illuminati\bin\Debug\Illuminati.exe
+C:\Users\bacuty\documents\Homew\Solution1\Illuminati\bin\Debug\Illuminati.pdb
+C:\Users\bacuty\documents\Homew\Solution1\Illuminati\obj\Debug\Illuminati.exe
+C:\Users\bacuty\documents\Homew\Solution1\Illuminati\obj\Debug\Illuminati.pdb
+C:\Users\bacuty\Documents\Homew\Exams\Illuminati\bin\Debug\Illuminati.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\Illuminati\obj\Debug\Illuminati.exe
+C:\Users\bacuty\Documents\Homew\Exams\Illuminati\obj\Debug\Illuminati.pdb

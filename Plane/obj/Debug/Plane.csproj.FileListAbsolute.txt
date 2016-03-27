@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\Plane\bin\Debug\Plane.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\Plane\bin\Debug\Plane.exe
+C:\Users\bacuty\Documents\Homew\Exams\Plane\bin\Debug\Plane.pdb
+C:\Users\bacuty\Documents\Homew\Exams\Plane\obj\Debug\Plane.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\Plane\obj\Debug\Plane.exe
+C:\Users\bacuty\Documents\Homew\Exams\Plane\obj\Debug\Plane.pdb

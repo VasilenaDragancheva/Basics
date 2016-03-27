@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\JoroTheFP\bin\Debug\JoroTheFP.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\JoroTheFP\bin\Debug\JoroTheFP.exe
+C:\Users\bacuty\Documents\Homew\Exams\JoroTheFP\bin\Debug\JoroTheFP.pdb
+C:\Users\bacuty\Documents\Homew\Exams\JoroTheFP\obj\Debug\JoroTheFP.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\JoroTheFP\obj\Debug\JoroTheFP.exe
+C:\Users\bacuty\Documents\Homew\Exams\JoroTheFP\obj\Debug\JoroTheFP.pdb

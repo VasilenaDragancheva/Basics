@@ -1,0 +1,9 @@
+C:\Users\bacuty\Documents\Homew\Exams\Budget\bin\Debug\Budget.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\Budget\bin\Debug\Budget.exe
+C:\Users\bacuty\Documents\Homew\Exams\Budget\bin\Debug\Budget.pdb
+C:\Users\bacuty\Documents\Homew\Exams\Budget\obj\Debug\Budget.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\Budget\obj\Debug\Budget.exe
+C:\Users\bacuty\Documents\Homew\Exams\Budget\obj\Debug\Budget.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\Budget\bin\Debug\Budget.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\Budget\obj\Debug\Budget.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\Budget\obj\Debug\Budget.pdb

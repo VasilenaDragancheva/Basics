@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\X-Bits\bin\Debug\X-Bits.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\X-Bits\bin\Debug\X-Bits.exe
+C:\Users\bacuty\Documents\Homew\Exams\X-Bits\bin\Debug\X-Bits.pdb
+C:\Users\bacuty\Documents\Homew\Exams\X-Bits\obj\Debug\X-Bits.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\X-Bits\obj\Debug\X-Bits.exe
+C:\Users\bacuty\Documents\Homew\Exams\X-Bits\obj\Debug\X-Bits.pdb

@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\JumpingSum\bin\Debug\JumpingSum.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\JumpingSum\bin\Debug\JumpingSum.exe
+C:\Users\bacuty\Documents\Homew\Exams\JumpingSum\bin\Debug\JumpingSum.pdb
+C:\Users\bacuty\Documents\Homew\Exams\JumpingSum\obj\Debug\JumpingSum.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\JumpingSum\obj\Debug\JumpingSum.exe
+C:\Users\bacuty\Documents\Homew\Exams\JumpingSum\obj\Debug\JumpingSum.pdb

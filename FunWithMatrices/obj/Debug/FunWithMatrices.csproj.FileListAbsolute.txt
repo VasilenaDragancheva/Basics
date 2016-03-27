@@ -1,0 +1,9 @@
+C:\Users\bacuty\Documents\Homew\Exams\FunWithMatrices\bin\Debug\FunWithMatrices.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\FunWithMatrices\bin\Debug\FunWithMatrices.exe
+C:\Users\bacuty\Documents\Homew\Exams\FunWithMatrices\bin\Debug\FunWithMatrices.pdb
+C:\Users\bacuty\Documents\Homew\Exams\FunWithMatrices\obj\Debug\FunWithMatrices.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\FunWithMatrices\obj\Debug\FunWithMatrices.exe
+C:\Users\bacuty\Documents\Homew\Exams\FunWithMatrices\obj\Debug\FunWithMatrices.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\FunWithMatrices\bin\Debug\FunWithMatrices.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\FunWithMatrices\obj\Debug\FunWithMatrices.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\FunWithMatrices\obj\Debug\FunWithMatrices.pdb

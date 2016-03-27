@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\OddEvenCounter\bin\Debug\OddEvenCounter.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\OddEvenCounter\bin\Debug\OddEvenCounter.exe
+C:\Users\bacuty\Documents\Homew\Exams\OddEvenCounter\bin\Debug\OddEvenCounter.pdb
+C:\Users\bacuty\Documents\Homew\Exams\OddEvenCounter\obj\Debug\OddEvenCounter.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\OddEvenCounter\obj\Debug\OddEvenCounter.exe
+C:\Users\bacuty\Documents\Homew\Exams\OddEvenCounter\obj\Debug\OddEvenCounter.pdb

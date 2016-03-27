@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\Nums\bin\Debug\Nums.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\Nums\bin\Debug\Nums.exe
+C:\Users\bacuty\Documents\Homew\Exams\Nums\bin\Debug\Nums.pdb
+C:\Users\bacuty\Documents\Homew\Exams\Nums\obj\Debug\Nums.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\Nums\obj\Debug\Nums.exe
+C:\Users\bacuty\Documents\Homew\Exams\Nums\obj\Debug\Nums.pdb

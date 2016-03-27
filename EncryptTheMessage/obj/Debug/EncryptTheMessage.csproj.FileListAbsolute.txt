@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\EncryptTheMessage\bin\Debug\EncryptTheMessage.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\EncryptTheMessage\bin\Debug\EncryptTheMessage.exe
+C:\Users\bacuty\Documents\Homew\Exams\EncryptTheMessage\bin\Debug\EncryptTheMessage.pdb
+C:\Users\bacuty\Documents\Homew\Exams\EncryptTheMessage\obj\Debug\EncryptTheMessage.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\EncryptTheMessage\obj\Debug\EncryptTheMessage.exe
+C:\Users\bacuty\Documents\Homew\Exams\EncryptTheMessage\obj\Debug\EncryptTheMessage.pdb

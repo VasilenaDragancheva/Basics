@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\Sunlight\bin\Debug\Sunlight.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\Sunlight\bin\Debug\Sunlight.exe
+C:\Users\bacuty\Documents\Homew\Exams\Sunlight\bin\Debug\Sunlight.pdb
+C:\Users\bacuty\Documents\Homew\Exams\Sunlight\obj\Debug\Sunlight.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\Sunlight\obj\Debug\Sunlight.exe
+C:\Users\bacuty\Documents\Homew\Exams\Sunlight\obj\Debug\Sunlight.pdb

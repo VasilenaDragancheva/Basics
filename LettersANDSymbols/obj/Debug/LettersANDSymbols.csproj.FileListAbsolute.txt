@@ -1,0 +1,5 @@
+C:\Users\bacuty\Documents\Homew\Exams\LettersANDSymbols\bin\Debug\LettersANDSymbols.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\LettersANDSymbols\bin\Debug\LettersANDSymbols.exe
+C:\Users\bacuty\Documents\Homew\Exams\LettersANDSymbols\bin\Debug\LettersANDSymbols.pdb
+C:\Users\bacuty\Documents\Homew\Exams\LettersANDSymbols\obj\Debug\LettersANDSymbols.exe
+C:\Users\bacuty\Documents\Homew\Exams\LettersANDSymbols\obj\Debug\LettersANDSymbols.pdb

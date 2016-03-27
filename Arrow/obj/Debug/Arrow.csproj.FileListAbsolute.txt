@@ -1,0 +1,5 @@
+C:\Users\bacuty\Documents\Homew\Exams\Arrow\bin\Debug\Arrow.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\Arrow\bin\Debug\Arrow.exe
+C:\Users\bacuty\Documents\Homew\Exams\Arrow\bin\Debug\Arrow.pdb
+C:\Users\bacuty\Documents\Homew\Exams\Arrow\obj\Debug\Arrow.exe
+C:\Users\bacuty\Documents\Homew\Exams\Arrow\obj\Debug\Arrow.pdb

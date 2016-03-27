@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\HalfSum\bin\Debug\HalfSum.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\HalfSum\bin\Debug\HalfSum.exe
+C:\Users\bacuty\Documents\Homew\Exams\HalfSum\bin\Debug\HalfSum.pdb
+C:\Users\bacuty\Documents\Homew\Exams\HalfSum\obj\Debug\HalfSum.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\HalfSum\obj\Debug\HalfSum.exe
+C:\Users\bacuty\Documents\Homew\Exams\HalfSum\obj\Debug\HalfSum.pdb

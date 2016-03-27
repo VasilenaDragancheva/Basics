@@ -1,0 +1,9 @@
+C:\Users\bacuty\Documents\Homew\Exams\BitLock\bin\Debug\BitLock.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\BitLock\bin\Debug\BitLock.exe
+C:\Users\bacuty\Documents\Homew\Exams\BitLock\bin\Debug\BitLock.pdb
+C:\Users\bacuty\Documents\Homew\Exams\BitLock\obj\Debug\BitLock.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\BitLock\obj\Debug\BitLock.exe
+C:\Users\bacuty\Documents\Homew\Exams\BitLock\obj\Debug\BitLock.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\BitLock\bin\Debug\BitLock.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\BitLock\obj\Debug\BitLock.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\BitLock\obj\Debug\BitLock.pdb

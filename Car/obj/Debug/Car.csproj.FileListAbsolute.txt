@@ -1,0 +1,12 @@
+C:\Users\bacuty\Documents\Homew\Exams\Car\bin\Debug\Car.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\Car\bin\Debug\Car.exe
+C:\Users\bacuty\Documents\Homew\Exams\Car\bin\Debug\Car.pdb
+C:\Users\bacuty\Documents\Homew\Exams\Car\obj\Debug\Car.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\Car\obj\Debug\Car.exe
+C:\Users\bacuty\Documents\Homew\Exams\Car\obj\Debug\Car.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\Car\bin\Debug\Car.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\Car\obj\Debug\Car.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\Car\obj\Debug\Car.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\Car\bin\Debug\Car.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\Car\bin\Debug\Car.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\Car\obj\Debug\Car.csprojResolveAssemblyReference.cache

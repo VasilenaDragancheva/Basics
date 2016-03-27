@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\TheExplorer\bin\Debug\TheExplorer.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\TheExplorer\bin\Debug\TheExplorer.exe
+C:\Users\bacuty\Documents\Homew\Exams\TheExplorer\bin\Debug\TheExplorer.pdb
+C:\Users\bacuty\Documents\Homew\Exams\TheExplorer\obj\Debug\TheExplorer.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\TheExplorer\obj\Debug\TheExplorer.exe
+C:\Users\bacuty\Documents\Homew\Exams\TheExplorer\obj\Debug\TheExplorer.pdb

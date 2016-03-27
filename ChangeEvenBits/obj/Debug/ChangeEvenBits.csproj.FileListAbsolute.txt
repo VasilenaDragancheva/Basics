@@ -1,0 +1,9 @@
+C:\Users\bacuty\Documents\Homew\Exams\ChangeEvenBits\bin\Debug\ChangeEvenBits.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\ChangeEvenBits\bin\Debug\ChangeEvenBits.exe
+C:\Users\bacuty\Documents\Homew\Exams\ChangeEvenBits\bin\Debug\ChangeEvenBits.pdb
+C:\Users\bacuty\Documents\Homew\Exams\ChangeEvenBits\obj\Debug\ChangeEvenBits.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\ChangeEvenBits\obj\Debug\ChangeEvenBits.exe
+C:\Users\bacuty\Documents\Homew\Exams\ChangeEvenBits\obj\Debug\ChangeEvenBits.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\ChangeEvenBits\bin\Debug\ChangeEvenBits.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\ChangeEvenBits\obj\Debug\ChangeEvenBits.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\ChangeEvenBits\obj\Debug\ChangeEvenBits.pdb

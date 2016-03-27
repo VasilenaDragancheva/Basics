@@ -1,0 +1,9 @@
+C:\Users\bacuty\Documents\Homew\Exams\TextBordament\bin\Debug\TextBordament.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\TextBordament\bin\Debug\TextBordament.exe
+C:\Users\bacuty\Documents\Homew\Exams\TextBordament\bin\Debug\TextBordament.pdb
+C:\Users\bacuty\Documents\Homew\Exams\TextBordament\obj\Debug\TextBordament.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\TextBordament\obj\Debug\TextBordament.exe
+C:\Users\bacuty\Documents\Homew\Exams\TextBordament\obj\Debug\TextBordament.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\TextBordament\bin\Debug\TextBordament.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\TextBordament\obj\Debug\TextBordament.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\TextBordament\obj\Debug\TextBordament.pdb

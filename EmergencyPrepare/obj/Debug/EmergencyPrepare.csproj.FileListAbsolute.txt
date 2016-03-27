@@ -1,0 +1,6 @@
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\EmergencyPrepare\bin\Debug\EmergencyPrepare.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\EmergencyPrepare\bin\Debug\EmergencyPrepare.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\EmergencyPrepare\bin\Debug\EmergencyPrepare.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\EmergencyPrepare\obj\Debug\EmergencyPrepare.csprojResolveAssemblyReference.cache
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\EmergencyPrepare\obj\Debug\EmergencyPrepare.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\EmergencyPrepare\obj\Debug\EmergencyPrepare.pdb

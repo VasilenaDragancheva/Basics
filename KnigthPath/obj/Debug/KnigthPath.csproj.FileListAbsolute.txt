@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\KnigthPath\bin\Debug\KnigthPath.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\KnigthPath\bin\Debug\KnigthPath.exe
+C:\Users\bacuty\Documents\Homew\Exams\KnigthPath\bin\Debug\KnigthPath.pdb
+C:\Users\bacuty\Documents\Homew\Exams\KnigthPath\obj\Debug\KnigthPath.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\KnigthPath\obj\Debug\KnigthPath.exe
+C:\Users\bacuty\Documents\Homew\Exams\KnigthPath\obj\Debug\KnigthPath.pdb

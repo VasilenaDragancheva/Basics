@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\RockLq\bin\Debug\RockLq.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\RockLq\bin\Debug\RockLq.exe
+C:\Users\bacuty\Documents\Homew\Exams\RockLq\bin\Debug\RockLq.pdb
+C:\Users\bacuty\Documents\Homew\Exams\RockLq\obj\Debug\RockLq.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\RockLq\obj\Debug\RockLq.exe
+C:\Users\bacuty\Documents\Homew\Exams\RockLq\obj\Debug\RockLq.pdb

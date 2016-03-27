@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\MagicCar\bin\Debug\MagicCar.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\MagicCar\bin\Debug\MagicCar.exe
+C:\Users\bacuty\Documents\Homew\Exams\MagicCar\bin\Debug\MagicCar.pdb
+C:\Users\bacuty\Documents\Homew\Exams\MagicCar\obj\Debug\MagicCar.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\MagicCar\obj\Debug\MagicCar.exe
+C:\Users\bacuty\Documents\Homew\Exams\MagicCar\obj\Debug\MagicCar.pdb

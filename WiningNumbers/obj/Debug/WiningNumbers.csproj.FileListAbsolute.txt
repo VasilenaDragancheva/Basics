@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\WiningNumbers\bin\Debug\WiningNumbers.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\WiningNumbers\bin\Debug\WiningNumbers.exe
+C:\Users\bacuty\Documents\Homew\Exams\WiningNumbers\bin\Debug\WiningNumbers.pdb
+C:\Users\bacuty\Documents\Homew\Exams\WiningNumbers\obj\Debug\WiningNumbers.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\WiningNumbers\obj\Debug\WiningNumbers.exe
+C:\Users\bacuty\Documents\Homew\Exams\WiningNumbers\obj\Debug\WiningNumbers.pdb

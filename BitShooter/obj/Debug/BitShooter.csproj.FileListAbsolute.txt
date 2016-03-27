@@ -1,0 +1,9 @@
+C:\Users\bacuty\Documents\Homew\Exams\BitShooter\bin\Debug\BitShooter.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\BitShooter\bin\Debug\BitShooter.exe
+C:\Users\bacuty\Documents\Homew\Exams\BitShooter\bin\Debug\BitShooter.pdb
+C:\Users\bacuty\Documents\Homew\Exams\BitShooter\obj\Debug\BitShooter.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\BitShooter\obj\Debug\BitShooter.exe
+C:\Users\bacuty\Documents\Homew\Exams\BitShooter\obj\Debug\BitShooter.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\BitShooter\bin\Debug\BitShooter.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\BitShooter\obj\Debug\BitShooter.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\BitShooter\obj\Debug\BitShooter.pdb

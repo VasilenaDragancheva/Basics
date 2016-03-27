@@ -1,0 +1,2 @@
+C:\Users\bacuty\Documents\Homew\Exams\AccountInfo\bin\Debug\AccountInfo.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\AccountInfo\bin\Debug\AccountInfo.exe.config

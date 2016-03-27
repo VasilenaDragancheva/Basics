@@ -1,0 +1,9 @@
+C:\Users\bacuty\Documents\Homew\Exams\BasketBattle\bin\Debug\BasketBattle.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\BasketBattle\bin\Debug\BasketBattle.exe
+C:\Users\bacuty\Documents\Homew\Exams\BasketBattle\bin\Debug\BasketBattle.pdb
+C:\Users\bacuty\Documents\Homew\Exams\BasketBattle\obj\Debug\BasketBattle.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\BasketBattle\obj\Debug\BasketBattle.exe
+C:\Users\bacuty\Documents\Homew\Exams\BasketBattle\obj\Debug\BasketBattle.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\BasketBattle\bin\Debug\BasketBattle.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\BasketBattle\obj\Debug\BasketBattle.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\BasketBattle\obj\Debug\BasketBattle.pdb

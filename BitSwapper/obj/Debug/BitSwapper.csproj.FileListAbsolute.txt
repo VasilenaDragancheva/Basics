@@ -1,0 +1,9 @@
+C:\Users\bacuty\Documents\Homew\Exams\BitSwapper\bin\Debug\BitSwapper.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\BitSwapper\bin\Debug\BitSwapper.exe
+C:\Users\bacuty\Documents\Homew\Exams\BitSwapper\bin\Debug\BitSwapper.pdb
+C:\Users\bacuty\Documents\Homew\Exams\BitSwapper\obj\Debug\BitSwapper.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\BitSwapper\obj\Debug\BitSwapper.exe
+C:\Users\bacuty\Documents\Homew\Exams\BitSwapper\obj\Debug\BitSwapper.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\BitSwapper\bin\Debug\BitSwapper.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\BitSwapper\obj\Debug\BitSwapper.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\BitSwapper\obj\Debug\BitSwapper.pdb

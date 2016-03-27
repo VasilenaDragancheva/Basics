@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\WeirdCombinations\bin\Debug\WeirdCombinations.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\WeirdCombinations\bin\Debug\WeirdCombinations.exe
+C:\Users\bacuty\Documents\Homew\Exams\WeirdCombinations\bin\Debug\WeirdCombinations.pdb
+C:\Users\bacuty\Documents\Homew\Exams\WeirdCombinations\obj\Debug\WeirdCombinations.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\WeirdCombinations\obj\Debug\WeirdCombinations.exe
+C:\Users\bacuty\Documents\Homew\Exams\WeirdCombinations\obj\Debug\WeirdCombinations.pdb

@@ -1,0 +1,2 @@
+C:\Users\bacuty\Documents\Homew\Exams\ByteParty\bin\Debug\ByteParty.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\ByteParty\bin\Debug\ByteParty.exe.config

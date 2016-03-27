@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\NakovMatching\bin\Debug\NakovMatching.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\NakovMatching\bin\Debug\NakovMatching.exe
+C:\Users\bacuty\Documents\Homew\Exams\NakovMatching\bin\Debug\NakovMatching.pdb
+C:\Users\bacuty\Documents\Homew\Exams\NakovMatching\obj\Debug\NakovMatching.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\NakovMatching\obj\Debug\NakovMatching.exe
+C:\Users\bacuty\Documents\Homew\Exams\NakovMatching\obj\Debug\NakovMatching.pdb

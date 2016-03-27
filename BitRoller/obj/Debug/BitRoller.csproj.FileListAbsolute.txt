@@ -1,0 +1,9 @@
+C:\Users\bacuty\Documents\Homew\Exams\BitRoller\bin\Debug\BitRoller.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\BitRoller\bin\Debug\BitRoller.exe
+C:\Users\bacuty\Documents\Homew\Exams\BitRoller\bin\Debug\BitRoller.pdb
+C:\Users\bacuty\Documents\Homew\Exams\BitRoller\obj\Debug\BitRoller.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\BitRoller\obj\Debug\BitRoller.exe
+C:\Users\bacuty\Documents\Homew\Exams\BitRoller\obj\Debug\BitRoller.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\BitRoller\bin\Debug\BitRoller.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\BitRoller\obj\Debug\BitRoller.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\BitRoller\obj\Debug\BitRoller.pdb

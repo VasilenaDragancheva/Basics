@@ -1,0 +1,9 @@
+C:\Users\bacuty\Documents\Homew\Exams\Boat\bin\Debug\Boat.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\Boat\bin\Debug\Boat.exe
+C:\Users\bacuty\Documents\Homew\Exams\Boat\bin\Debug\Boat.pdb
+C:\Users\bacuty\Documents\Homew\Exams\Boat\obj\Debug\Boat.exe
+C:\Users\bacuty\Documents\Homew\Exams\Boat\obj\Debug\Boat.pdb
+C:\Users\bacuty\Documents\Homew\Exams\Boat\obj\Debug\Boat.csprojResolveAssemblyReference.cache
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\Boat\bin\Debug\Boat.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\Boat\obj\Debug\Boat.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\Boat\obj\Debug\Boat.pdb

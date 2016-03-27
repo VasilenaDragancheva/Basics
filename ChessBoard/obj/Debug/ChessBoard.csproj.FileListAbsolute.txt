@@ -1,0 +1,10 @@
+C:\Users\bacuty\documents\Homew\Solution1\ChessBoard\bin\Debug\ChessBoard.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\ChessBoard\bin\Debug\ChessBoard.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\ChessBoard\bin\Debug\ChessBoard.exe
+C:\Users\bacuty\Documents\Homew\Exams\ChessBoard\bin\Debug\ChessBoard.pdb
+C:\Users\bacuty\Documents\Homew\Exams\ChessBoard\obj\Debug\ChessBoard.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\ChessBoard\obj\Debug\ChessBoard.exe
+C:\Users\bacuty\Documents\Homew\Exams\ChessBoard\obj\Debug\ChessBoard.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\ChessBoard\bin\Debug\ChessBoard.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\ChessBoard\obj\Debug\ChessBoard.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\ChessBoard\obj\Debug\ChessBoard.pdb

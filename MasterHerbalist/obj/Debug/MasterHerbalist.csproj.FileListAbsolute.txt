@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homeworks_SoftUni\BasicsHomeworksExams\Exams\MasterHerbalist\bin\Debug\MasterHerbalist.exe.config
+C:\Users\bacuty\Documents\Homeworks_SoftUni\BasicsHomeworksExams\Exams\MasterHerbalist\bin\Debug\MasterHerbalist.exe
+C:\Users\bacuty\Documents\Homeworks_SoftUni\BasicsHomeworksExams\Exams\MasterHerbalist\bin\Debug\MasterHerbalist.pdb
+C:\Users\bacuty\Documents\Homeworks_SoftUni\BasicsHomeworksExams\Exams\MasterHerbalist\obj\Debug\MasterHerbalist.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homeworks_SoftUni\BasicsHomeworksExams\Exams\MasterHerbalist\obj\Debug\MasterHerbalist.exe
+C:\Users\bacuty\Documents\Homeworks_SoftUni\BasicsHomeworksExams\Exams\MasterHerbalist\obj\Debug\MasterHerbalist.pdb

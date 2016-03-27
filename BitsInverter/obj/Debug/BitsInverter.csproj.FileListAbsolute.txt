@@ -1,0 +1,9 @@
+C:\Users\bacuty\Documents\Homew\Exams\BitsInverter\bin\Debug\BitsInverter.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\BitsInverter\bin\Debug\BitsInverter.exe
+C:\Users\bacuty\Documents\Homew\Exams\BitsInverter\bin\Debug\BitsInverter.pdb
+C:\Users\bacuty\Documents\Homew\Exams\BitsInverter\obj\Debug\BitsInverter.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\BitsInverter\obj\Debug\BitsInverter.exe
+C:\Users\bacuty\Documents\Homew\Exams\BitsInverter\obj\Debug\BitsInverter.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\BitsInverter\bin\Debug\BitsInverter.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\BitsInverter\obj\Debug\BitsInverter.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\BitsInverter\obj\Debug\BitsInverter.pdb

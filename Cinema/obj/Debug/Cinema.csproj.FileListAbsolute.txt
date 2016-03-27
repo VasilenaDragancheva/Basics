@@ -1,0 +1,9 @@
+C:\Users\bacuty\documents\Homew\Solution1\Cinema\bin\Debug\Cinema.exe.config
+C:\Users\bacuty\documents\Homew\Solution1\Cinema\bin\Debug\Cinema.exe
+C:\Users\bacuty\documents\Homew\Solution1\Cinema\bin\Debug\Cinema.pdb
+C:\Users\bacuty\documents\Homew\Solution1\Cinema\obj\Debug\Cinema.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\documents\Homew\Solution1\Cinema\obj\Debug\Cinema.exe
+C:\Users\bacuty\documents\Homew\Solution1\Cinema\obj\Debug\Cinema.pdb
+C:\Users\bacuty\Documents\Homew\Exams\Cinema\bin\Debug\Cinema.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\Cinema\obj\Debug\Cinema.exe
+C:\Users\bacuty\Documents\Homew\Exams\Cinema\obj\Debug\Cinema.pdb

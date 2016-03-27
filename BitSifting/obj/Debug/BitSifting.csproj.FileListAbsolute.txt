@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\BitSifting\bin\Debug\BitSifting.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\BitSifting\bin\Debug\BitSifting.exe
+C:\Users\bacuty\Documents\Homew\Exams\BitSifting\bin\Debug\BitSifting.pdb
+C:\Users\bacuty\Documents\Homew\Exams\BitSifting\obj\Debug\BitSifting.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\BitSifting\obj\Debug\BitSifting.exe
+C:\Users\bacuty\Documents\Homew\Exams\BitSifting\obj\Debug\BitSifting.pdb

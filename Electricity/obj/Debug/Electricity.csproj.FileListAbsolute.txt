@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\Electricity\bin\Debug\Electricity.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\Electricity\bin\Debug\Electricity.exe
+C:\Users\bacuty\Documents\Homew\Exams\Electricity\bin\Debug\Electricity.pdb
+C:\Users\bacuty\Documents\Homew\Exams\Electricity\obj\Debug\Electricity.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\Electricity\obj\Debug\Electricity.exe
+C:\Users\bacuty\Documents\Homew\Exams\Electricity\obj\Debug\Electricity.pdb

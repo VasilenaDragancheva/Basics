@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\LongestAlphWord\bin\Debug\LongestAlphWord.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\LongestAlphWord\bin\Debug\LongestAlphWord.exe
+C:\Users\bacuty\Documents\Homew\Exams\LongestAlphWord\bin\Debug\LongestAlphWord.pdb
+C:\Users\bacuty\Documents\Homew\Exams\LongestAlphWord\obj\Debug\LongestAlphWord.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\LongestAlphWord\obj\Debug\LongestAlphWord.exe
+C:\Users\bacuty\Documents\Homew\Exams\LongestAlphWord\obj\Debug\LongestAlphWord.pdb

@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\PokerStrait\bin\Debug\PokerStrait.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\PokerStrait\obj\Debug\PokerStrait.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\PokerStrait\bin\Debug\PokerStrait.exe
+C:\Users\bacuty\Documents\Homew\Exams\PokerStrait\bin\Debug\PokerStrait.pdb
+C:\Users\bacuty\Documents\Homew\Exams\PokerStrait\obj\Debug\PokerStrait.exe
+C:\Users\bacuty\Documents\Homew\Exams\PokerStrait\obj\Debug\PokerStrait.pdb

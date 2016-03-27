@@ -1,0 +1,9 @@
+C:\Users\bacuty\Documents\Homew\Exams\BitPath\bin\Debug\BitPath.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\BitPath\bin\Debug\BitPath.exe
+C:\Users\bacuty\Documents\Homew\Exams\BitPath\bin\Debug\BitPath.pdb
+C:\Users\bacuty\Documents\Homew\Exams\BitPath\obj\Debug\BitPath.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\BitPath\obj\Debug\BitPath.exe
+C:\Users\bacuty\Documents\Homew\Exams\BitPath\obj\Debug\BitPath.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\BitPath\bin\Debug\BitPath.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\BitPath\obj\Debug\BitPath.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\BitPath\obj\Debug\BitPath.pdb

@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\DreamItem\bin\Debug\DreamItem.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\DreamItem\bin\Debug\DreamItem.exe
+C:\Users\bacuty\Documents\Homew\Exams\DreamItem\bin\Debug\DreamItem.pdb
+C:\Users\bacuty\Documents\Homew\Exams\DreamItem\obj\Debug\DreamItem.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\DreamItem\obj\Debug\DreamItem.exe
+C:\Users\bacuty\Documents\Homew\Exams\DreamItem\obj\Debug\DreamItem.pdb

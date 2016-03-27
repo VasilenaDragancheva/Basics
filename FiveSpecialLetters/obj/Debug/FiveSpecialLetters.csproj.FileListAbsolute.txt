@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\FiveSpecialLetters\bin\Debug\FiveSpecialLetters.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\FiveSpecialLetters\bin\Debug\FiveSpecialLetters.exe
+C:\Users\bacuty\Documents\Homew\Exams\FiveSpecialLetters\bin\Debug\FiveSpecialLetters.pdb
+C:\Users\bacuty\Documents\Homew\Exams\FiveSpecialLetters\obj\Debug\FiveSpecialLetters.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\FiveSpecialLetters\obj\Debug\FiveSpecialLetters.exe
+C:\Users\bacuty\Documents\Homew\Exams\FiveSpecialLetters\obj\Debug\FiveSpecialLetters.pdb

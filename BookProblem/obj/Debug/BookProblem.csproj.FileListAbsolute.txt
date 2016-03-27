@@ -1,0 +1,15 @@
+c:\users\bacuty\documents\Homew\Solution1\BookProblem\bin\Debug\BookProblem.exe.config
+c:\users\bacuty\documents\Homew\Solution1\BookProblem\obj\Debug\BookProblem.csprojResolveAssemblyReference.cache
+c:\users\bacuty\documents\Homew\Solution1\BookProblem\bin\Debug\BookProblem.exe
+c:\users\bacuty\documents\Homew\Solution1\BookProblem\bin\Debug\BookProblem.pdb
+c:\users\bacuty\documents\Homew\Solution1\BookProblem\obj\Debug\BookProblem.exe
+c:\users\bacuty\documents\Homew\Solution1\BookProblem\obj\Debug\BookProblem.pdb
+C:\Users\bacuty\Documents\Homew\Exams\BookProblem\bin\Debug\BookProblem.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\BookProblem\obj\Debug\BookProblem.exe
+C:\Users\bacuty\Documents\Homew\Exams\BookProblem\obj\Debug\BookProblem.pdb
+C:\Users\bacuty\Documents\Homeworks_SoftUni\BasicsHomeworksExams\Exams\BookProblem\bin\Debug\BookProblem.exe.config
+C:\Users\bacuty\Documents\Homeworks_SoftUni\BasicsHomeworksExams\Exams\BookProblem\obj\Debug\BookProblem.exe
+C:\Users\bacuty\Documents\Homeworks_SoftUni\BasicsHomeworksExams\Exams\BookProblem\obj\Debug\BookProblem.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\BookProblem\bin\Debug\BookProblem.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\BookProblem\obj\Debug\BookProblem.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\BookProblem\obj\Debug\BookProblem.pdb

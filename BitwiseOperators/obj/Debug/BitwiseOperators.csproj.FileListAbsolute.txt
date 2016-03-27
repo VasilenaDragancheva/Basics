@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\BitwiseOperators\bin\Debug\BitwiseOperators.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\BitwiseOperators\bin\Debug\BitwiseOperators.exe
+C:\Users\bacuty\Documents\Homew\Exams\BitwiseOperators\bin\Debug\BitwiseOperators.pdb
+C:\Users\bacuty\Documents\Homew\Exams\BitwiseOperators\obj\Debug\BitwiseOperators.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\BitwiseOperators\obj\Debug\BitwiseOperators.exe
+C:\Users\bacuty\Documents\Homew\Exams\BitwiseOperators\obj\Debug\BitwiseOperators.pdb

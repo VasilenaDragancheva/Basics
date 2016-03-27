@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\MagicDates\bin\Debug\MagicDates.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\MagicDates\bin\Debug\MagicDates.exe
+C:\Users\bacuty\Documents\Homew\Exams\MagicDates\bin\Debug\MagicDates.pdb
+C:\Users\bacuty\Documents\Homew\Exams\MagicDates\obj\Debug\MagicDates.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\MagicDates\obj\Debug\MagicDates.exe
+C:\Users\bacuty\Documents\Homew\Exams\MagicDates\obj\Debug\MagicDates.pdb

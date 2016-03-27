@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\LongestAlphab\bin\Debug\LongestAlphab.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\LongestAlphab\bin\Debug\LongestAlphab.exe
+C:\Users\bacuty\Documents\Homew\Exams\LongestAlphab\bin\Debug\LongestAlphab.pdb
+C:\Users\bacuty\Documents\Homew\Exams\LongestAlphab\obj\Debug\LongestAlphab.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\LongestAlphab\obj\Debug\LongestAlphab.exe
+C:\Users\bacuty\Documents\Homew\Exams\LongestAlphab\obj\Debug\LongestAlphab.pdb

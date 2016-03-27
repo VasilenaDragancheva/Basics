@@ -1,0 +1,9 @@
+C:\Users\bacuty\Documents\Homew\Exams\BitUp\bin\Debug\BitUp.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\BitUp\bin\Debug\BitUp.exe
+C:\Users\bacuty\Documents\Homew\Exams\BitUp\bin\Debug\BitUp.pdb
+C:\Users\bacuty\Documents\Homew\Exams\BitUp\obj\Debug\BitUp.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\BitUp\obj\Debug\BitUp.exe
+C:\Users\bacuty\Documents\Homew\Exams\BitUp\obj\Debug\BitUp.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\BitUp\bin\Debug\BitUp.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\BitUp\obj\Debug\BitUp.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\BitUp\obj\Debug\BitUp.pdb

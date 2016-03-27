@@ -1,0 +1,34 @@
+﻿namespace BitInventer1
+{
+    using System;
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int n = int.Parse(Console.ReadLine());
+            int[] numbers = new int[n];
+            int step = int.Parse(Console.ReadLine());
+
+            // for (int i = 0; i < n; i++)
+            // {
+            // numbers[i] = int.Parse(Console.ReadLine());
+            // }
+            int index = 0;
+            for (int i = 0; i < n; i++)
+            {
+                int num = int.Parse(Console.ReadLine());
+                for (int bit = 7; bit >= 0; bit--)
+                {
+                    index++;
+                    if ((step == 1) || (index % step == 1))
+                    {
+                        num = num ^ (1 << bit);
+                    }
+                }
+
+                Console.WriteLine(num);
+            }
+        }
+    }
+}

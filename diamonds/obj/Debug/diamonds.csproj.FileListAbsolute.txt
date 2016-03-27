@@ -1,0 +1,9 @@
+C:\Users\bacuty\Documents\Homew\Exams\diamonds\bin\Debug\diamonds.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\diamonds\bin\Debug\diamonds.exe
+C:\Users\bacuty\Documents\Homew\Exams\diamonds\bin\Debug\diamonds.pdb
+C:\Users\bacuty\Documents\Homew\Exams\diamonds\obj\Debug\diamonds.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\diamonds\obj\Debug\diamonds.exe
+C:\Users\bacuty\Documents\Homew\Exams\diamonds\obj\Debug\diamonds.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\diamonds\bin\Debug\diamonds.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\diamonds\obj\Debug\diamonds.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\diamonds\obj\Debug\diamonds.pdb

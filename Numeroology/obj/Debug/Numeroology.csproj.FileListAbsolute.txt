@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\Numeroology\bin\Debug\Numeroology.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\Numeroology\bin\Debug\Numeroology.exe
+C:\Users\bacuty\Documents\Homew\Exams\Numeroology\bin\Debug\Numeroology.pdb
+C:\Users\bacuty\Documents\Homew\Exams\Numeroology\obj\Debug\Numeroology.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\Numeroology\obj\Debug\Numeroology.exe
+C:\Users\bacuty\Documents\Homew\Exams\Numeroology\obj\Debug\Numeroology.pdb

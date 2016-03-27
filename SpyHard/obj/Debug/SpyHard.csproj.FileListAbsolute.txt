@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\SpyHard\bin\Debug\SpyHard.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\SpyHard\bin\Debug\SpyHard.exe
+C:\Users\bacuty\Documents\Homew\Exams\SpyHard\bin\Debug\SpyHard.pdb
+C:\Users\bacuty\Documents\Homew\Exams\SpyHard\obj\Debug\SpyHard.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\SpyHard\obj\Debug\SpyHard.exe
+C:\Users\bacuty\Documents\Homew\Exams\SpyHard\obj\Debug\SpyHard.pdb

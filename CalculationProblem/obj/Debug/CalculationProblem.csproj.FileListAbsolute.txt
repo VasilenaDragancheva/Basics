@@ -1,0 +1,6 @@
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\CalculationProblem\bin\Debug\CalculationProblem.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\CalculationProblem\bin\Debug\CalculationProblem.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\CalculationProblem\bin\Debug\CalculationProblem.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\CalculationProblem\obj\Debug\CalculationProblem.csprojResolveAssemblyReference.cache
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\CalculationProblem\obj\Debug\CalculationProblem.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\CalculationProblem\obj\Debug\CalculationProblem.pdb

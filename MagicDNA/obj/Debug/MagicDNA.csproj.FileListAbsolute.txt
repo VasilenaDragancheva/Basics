@@ -1,0 +1,9 @@
+C:\Users\bacuty\documents\Homew\Solution1\MagicDNA\bin\Debug\MagicDNA.exe.config
+C:\Users\bacuty\documents\Homew\Solution1\MagicDNA\bin\Debug\MagicDNA.exe
+C:\Users\bacuty\documents\Homew\Solution1\MagicDNA\bin\Debug\MagicDNA.pdb
+C:\Users\bacuty\documents\Homew\Solution1\MagicDNA\obj\Debug\MagicDNA.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\documents\Homew\Solution1\MagicDNA\obj\Debug\MagicDNA.exe
+C:\Users\bacuty\documents\Homew\Solution1\MagicDNA\obj\Debug\MagicDNA.pdb
+C:\Users\bacuty\Documents\Homew\Exams\MagicDNA\bin\Debug\MagicDNA.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\MagicDNA\obj\Debug\MagicDNA.exe
+C:\Users\bacuty\Documents\Homew\Exams\MagicDNA\obj\Debug\MagicDNA.pdb

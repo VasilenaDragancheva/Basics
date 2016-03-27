@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\SimpleLoops\bin\Debug\SimpleLoops.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\SimpleLoops\bin\Debug\SimpleLoops.exe
+C:\Users\bacuty\Documents\Homew\Exams\SimpleLoops\bin\Debug\SimpleLoops.pdb
+C:\Users\bacuty\Documents\Homew\Exams\SimpleLoops\obj\Debug\SimpleLoops.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\SimpleLoops\obj\Debug\SimpleLoops.exe
+C:\Users\bacuty\Documents\Homew\Exams\SimpleLoops\obj\Debug\SimpleLoops.pdb

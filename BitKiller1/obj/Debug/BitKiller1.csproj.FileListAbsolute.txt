@@ -1,0 +1,9 @@
+C:\Users\bacuty\Documents\Homew\Exams\BitKiller1\bin\Debug\BitKiller1.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\BitKiller1\bin\Debug\BitKiller1.exe
+C:\Users\bacuty\Documents\Homew\Exams\BitKiller1\bin\Debug\BitKiller1.pdb
+C:\Users\bacuty\Documents\Homew\Exams\BitKiller1\obj\Debug\BitKiller1.exe
+C:\Users\bacuty\Documents\Homew\Exams\BitKiller1\obj\Debug\BitKiller1.pdb
+C:\Users\bacuty\Documents\Homew\Exams\BitKiller1\obj\Debug\BitKiller1.csprojResolveAssemblyReference.cache
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\BitKiller1\bin\Debug\BitKiller1.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\BitKiller1\obj\Debug\BitKiller1.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\BitKiller1\obj\Debug\BitKiller1.pdb

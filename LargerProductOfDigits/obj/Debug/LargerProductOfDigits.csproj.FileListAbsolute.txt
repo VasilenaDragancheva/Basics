@@ -1,0 +1,9 @@
+C:\Users\bacuty\Documents\Homew\Exams\LargerProductOfDigits\bin\Debug\LargerProductOfDigits.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\LargerProductOfDigits\bin\Debug\LargerProductOfDigits.exe
+C:\Users\bacuty\Documents\Homew\Exams\LargerProductOfDigits\bin\Debug\LargerProductOfDigits.pdb
+C:\Users\bacuty\Documents\Homew\Exams\LargerProductOfDigits\obj\Debug\LargerProductOfDigits.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\LargerProductOfDigits\obj\Debug\LargerProductOfDigits.exe
+C:\Users\bacuty\Documents\Homew\Exams\LargerProductOfDigits\obj\Debug\LargerProductOfDigits.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\LargerProductOfDigits\bin\Debug\LargerProductOfDigits.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\LargerProductOfDigits\obj\Debug\LargerProductOfDigits.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\LargerProductOfDigits\obj\Debug\LargerProductOfDigits.pdb

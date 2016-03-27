@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homeworks_SoftUni\BasicsHomeworksExams\Exams\IllumintiLock\bin\Debug\IllumintiLock.exe.config
+C:\Users\bacuty\Documents\Homeworks_SoftUni\BasicsHomeworksExams\Exams\IllumintiLock\bin\Debug\IllumintiLock.exe
+C:\Users\bacuty\Documents\Homeworks_SoftUni\BasicsHomeworksExams\Exams\IllumintiLock\bin\Debug\IllumintiLock.pdb
+C:\Users\bacuty\Documents\Homeworks_SoftUni\BasicsHomeworksExams\Exams\IllumintiLock\obj\Debug\IllumintiLock.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homeworks_SoftUni\BasicsHomeworksExams\Exams\IllumintiLock\obj\Debug\IllumintiLock.exe
+C:\Users\bacuty\Documents\Homeworks_SoftUni\BasicsHomeworksExams\Exams\IllumintiLock\obj\Debug\IllumintiLock.pdb

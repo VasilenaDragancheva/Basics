@@ -1,0 +1,9 @@
+C:\Users\bacuty\documents\Homew\Solution1\Pairs\bin\Debug\Pairs.exe.config
+C:\Users\bacuty\documents\Homew\Solution1\Pairs\bin\Debug\Pairs.exe
+C:\Users\bacuty\documents\Homew\Solution1\Pairs\bin\Debug\Pairs.pdb
+C:\Users\bacuty\documents\Homew\Solution1\Pairs\obj\Debug\Pairs.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\documents\Homew\Solution1\Pairs\obj\Debug\Pairs.exe
+C:\Users\bacuty\documents\Homew\Solution1\Pairs\obj\Debug\Pairs.pdb
+C:\Users\bacuty\Documents\Homew\Exams\Pairs\bin\Debug\Pairs.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\Pairs\obj\Debug\Pairs.exe
+C:\Users\bacuty\Documents\Homew\Exams\Pairs\obj\Debug\Pairs.pdb

@@ -1,0 +1,6 @@
+C:\Users\bacuty\Documents\Homew\Exams\PiggyBank\bin\Debug\PiggyBank.exe.config
+C:\Users\bacuty\Documents\Homew\Exams\PiggyBank\bin\Debug\PiggyBank.exe
+C:\Users\bacuty\Documents\Homew\Exams\PiggyBank\bin\Debug\PiggyBank.pdb
+C:\Users\bacuty\Documents\Homew\Exams\PiggyBank\obj\Debug\PiggyBank.csprojResolveAssemblyReference.cache
+C:\Users\bacuty\Documents\Homew\Exams\PiggyBank\obj\Debug\PiggyBank.exe
+C:\Users\bacuty\Documents\Homew\Exams\PiggyBank\obj\Debug\PiggyBank.pdb
