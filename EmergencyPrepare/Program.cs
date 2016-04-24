@@ -6,7 +6,6 @@
     {
         public static void Main(string[] args)
         {
-
             string number = "0000000000000111010100101000010011010001010011011101111110111110";
             ulong wall = ulong.Parse(Console.ReadLine());
             long countRepairKit = long.Parse(Console.ReadLine());
@@ -45,7 +44,6 @@
             }
 
             Console.WriteLine(Convert.ToUInt64(new string(wallAsNumber), 2));
-
         }
 
         private static int FindHoleSize(char[] wallAsNumber, int i)
@@ -56,9 +54,8 @@
                 zeroCounters++;
                 i--;
             }
+
             return zeroCounters;
         }
-
-
     }
 }

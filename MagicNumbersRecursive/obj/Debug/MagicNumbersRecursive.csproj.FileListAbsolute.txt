@@ -1,0 +1,6 @@
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\MagicNumbersRecursive\bin\Debug\MagicNumbersRecursive.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\MagicNumbersRecursive\bin\Debug\MagicNumbersRecursive.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\MagicNumbersRecursive\bin\Debug\MagicNumbersRecursive.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\MagicNumbersRecursive\obj\Debug\MagicNumbersRecursive.csprojResolveAssemblyReference.cache
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\MagicNumbersRecursive\obj\Debug\MagicNumbersRecursive.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\MagicNumbersRecursive\obj\Debug\MagicNumbersRecursive.pdb
