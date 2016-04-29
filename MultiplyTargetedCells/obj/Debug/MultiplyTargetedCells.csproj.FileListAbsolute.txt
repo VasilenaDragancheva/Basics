@@ -1,0 +1,6 @@
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\MultiplyTargetedCells\bin\Debug\MultiplyTargetedCells.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\MultiplyTargetedCells\bin\Debug\MultiplyTargetedCells.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\MultiplyTargetedCells\bin\Debug\MultiplyTargetedCells.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\MultiplyTargetedCells\obj\Debug\MultiplyTargetedCells.csprojResolveAssemblyReference.cache
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\MultiplyTargetedCells\obj\Debug\MultiplyTargetedCells.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Basics\BasicsHomeworksExams\Exams\MultiplyTargetedCells\obj\Debug\MultiplyTargetedCells.pdb
